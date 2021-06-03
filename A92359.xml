@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the battaile lately fought between Keynton and Edghill by His Majesties army and that of the rebells. Together, with other successes of His Majesties army happening since.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92359</idno><idno type="EEBO-CITATION">99861175</idno>
+  <idno type="VID">113303</idno>
+  <idno type="EEBO-PROQUEST">2240899826</idno>
+  
+            <idno type="STC">Wing R815</idno>
+            <idno type="STC">Thomason E126_24</idno>
+            <idno type="STC">ESTC R20041</idno>
+            <idno type="PROQUEST">99861175</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861175e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113303)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the battaile lately fought between Keynton and Edghill by His Majesties army and that of the rebells. Together, with other successes of His Majesties army happening since.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield Printer to the Vniversity,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Banbury (Oxfordshire) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Edge Hill (Warwickshire) --  History, Military --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113303:1"/>
+            <pb facs="tcp:113303:1"/>
+            <p>
+               <hi>A</hi> RELATION of the Battaile lately fought be<g ref="char:EOLhyphen"/>tween <hi>Keynton</hi> and <hi>Edghill</hi> by His MAJESTIES Army and <hi>that of the Rebells.</hi>
+            </p>
+            <p>TOGETHER, With other Successes of His MAJESTIES Army <hi>happening since.</hi>
+            </p>
+            <p>
+               <hi>PRINTED AT OXFORD,</hi> By LEONARD LICHFIELD Printer <hi>to the Vniversity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113303:2"/>
+            <pb n="1" facs="tcp:113303:2"/>
+            <head>
+               <hi>A</hi> RELATION OF THE BAT<g ref="char:EOLhyphen"/>taile lately fought between <hi>Keynton</hi> and <hi>Edghill</hi> by His MAJESTIES Army <hi>and that of the Rebells.</hi>
+            </head>
+            <head type="sub">Together with other Successes of His MA<g ref="char:EOLhyphen"/>JESTIES <hi>Army happening since.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon Saturday the 22<seg rend="sup">d</seg> of <hi>October</hi> 1642. His Majesty had given order for the summoning of <hi>Banbury,</hi> and in case of refusall the besieging of it with 4000 foot, and foure piece of Cannon, but that evening intelligence was brought, that the Rebells had a resolution to relieve it; but it was not so certain as to make any change of the former Orders, yet upon Sun<g ref="char:EOLhyphen"/>day at three in the morning there came certain intelli<g ref="char:EOLhyphen"/>gence that the whole Army of the Rebells were Marching with all expedition thither, and were quar<g ref="char:EOLhyphen"/>tered at a Towne called <hi>Reynton</hi> three miles from <hi>Edgehill,</hi> whereupon the King gave present order for
+<pb n="2" facs="tcp:113303:3"/>all His Army both Horse and Foot to March with all expedition to <hi>Edghill,</hi> being foure miles distant from his nearest quarter, to which Rendevous the Kings Horse came between ten and eleven a clock in the morning, and the Van of the foot came within an hower after, but the Rere (which hapned at that time to be the Lord Lieutenant <hi>Generalls</hi> Regiment) with the Artillery came not in two houres after. As soon as We came to the top of <hi>Edghill</hi> which looks upon <hi>Keynton</hi> We saw the Rebells Army drawing out and setting themselves in Battalia, whereupon the Kings Horse went down the hill and set themselves in order, the foot likewise having command to come down the hill and doe the like; but before that was done and the Kings Artillery come, it was past two in the afternoon.</p>
+            <p>It being perceived that the Rebells had placed some Musquetiers under a hedge that crost the field, where the Encounter was to be made, that flanked upon Our left wing, there were some of the Kings Dragoniers sent to beat them off, which they very well performed, whereupon all our Army advanced in very good Or<g ref="char:EOLhyphen"/>der, the Ordinance of both sides playing very fast, but that of the Rebells began first. The charge began be<g ref="char:EOLhyphen"/>tween the two wings of horse, those of the Rebells not standing our charge, a quarter of an hower before they fled; our men having the execution of them for three miles together, the horse of both our Wings routing their foot as well as their horse, and two whole Regi<g ref="char:EOLhyphen"/>ments of their foot were absolutely cut off by those of our left Wing, besides those put into disorder by our right. Whiles this was doing, the bodies of the foot
+<pb n="3" facs="tcp:113303:3"/>met the Kings Regiment of Guard, and the Earle of <hi>Lindsies</hi> giving the first charge, which was very well disputed a long time, untill the reserve of the Rebells Horse (which had never been charged) charged Our Foot upon the flank, which Our Foot resisted a good while, but at length not being seconded by Our re<g ref="char:EOLhyphen"/>serve of Horse, which contrary to order, thinking the day was surely wonne, had followed the execution of the Rebells so farre that they could not come in time to relieve them, they were put into some disor<g ref="char:EOLhyphen"/>der, in which the Kings Standard (the Standard-bea<g ref="char:EOLhyphen"/>rer being slaine, and the Lord <hi>Willougby</hi> seeking to relieve his Father, who fell being shot in the Legge, was together with his Father made Prisoner: but the Standard was soon relieved by the Lievtenant of the Lord <hi>Iohn Stewards</hi> Troope (Captain <hi>Smith</hi>) being newly returned from the execution of the Rebells. The left side of Our foot being put into disorder all the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est gave way, yet those of the right hand were never put into disorder, but, seeing some of the Cannon in danger to be lost, advanced againe and made the place good, the left hand of the Rebells foot coming on a pace to charge them: By this time the right Wing of Our Horse was returned from chasing of the Rebells and were in some confusion, because they came from the execution; but seeing our foot and Cannon in some danger to be lost, by reason that the Rebells Horse and Foot (those Horse which had never been charged) ad<g ref="char:EOLhyphen"/>vanced in good order to charge, Ours made a stand &amp; soon railed together, having some Dragoniers with them, and so advancing made the Dragoniers give
+<pb n="4" facs="tcp:113303:4"/>them a Volley or two of shot which made the Rebells instantly retire. By this time it was▪ grown so dark that our chief Commanders durst no charge for feare of mistaking friends for foes (though it was certain<g ref="char:EOLhyphen"/>ly concluded by them all, that if We had had light e<g ref="char:EOLhyphen"/>nough but to have given one charge more We had to<g ref="char:EOLhyphen"/>tally routed all their Army,) Whereupon both Ar<g ref="char:EOLhyphen"/>mies retreated, Ours in such order that We not only brought off our own Cannon, but foure of the Rebells, We retiring up to the top of the Hill from whence We came because of the advantage of the place, and theirs to the Village where they had been quartered the night before.</p>
+            <p>The King with the whole body of the Horse, and those of the foot which were not broken, quartered upon and on the side of the Hill all night, and in the morning as soon as it was day, drew halfe the body of the Horse into Battalia at the foot of the hill, and the rest of the Horse and the foot upon the top of the Hill where the Standard was placed, and having notice that three of the Rebells Cannon were left halfe way be<g ref="char:EOLhyphen"/>tween Vs and their Quarter, sent out a body of Horse and drew them off, they not so much as offering to re<g ref="char:EOLhyphen"/>lieve them: so both Armies, facing one another all day, retired at night to their former quarters.</p>
+            <p>The Rebells in this Battaile lost above 70 Colours of Cornets and Ensignes, Wee sixteen Ensignes, but not one Cornet; but our Horse relieved not only the Standard but diverse of our own Ensignes.</p>
+            <p>For the slain of both sides the number is uncertain, yet it is most certain that wee kill'd five for one. It is
+<pb n="5" facs="tcp:113303:4"/>true that their chief Officers having fleeter horses then▪ ours, not so many of their, Officers of Foot as ours were slain and taken Prisoners to our knowledge as yet, but We lost no Officer of horse excepting the Lord <hi>Aubigny.</hi>
+            </p>
+            <p>The next day after the Battell, the Earle of <hi>Ess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x</hi> finding his Army extreamly weakned and disheart<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the great blow they had received by His Majesties forces withdrew himselfe to <hi>Warwick</hi> Castle, and the same night, the remainer of his Forces went also pri<g ref="char:EOLhyphen"/>vately thither much distracted, whereof Prince <hi>Rupert</hi> having notice the next morning pursued them, but they were all got into <hi>Warwick</hi> or dispersed before He could overtake them: but His Highnesse took twenty five Waggons &amp; Carriages of the Rebells laden with Am<g ref="char:EOLhyphen"/>munition Medicaments and other baggage whereof He brought away part and fired the rest.</p>
+            <p>This sudden returning back of the Rebells to <hi>War<g ref="char:EOLhyphen"/>wick</hi> is not only a sure argument of the weaknesse of their Army, but hath exceedingly disheartned all the Country which adhered to them and were before (upon the false rumor that the Kings forces were de<g ref="char:EOLhyphen"/>feated) ready to have risen and falne upon His Maje<g ref="char:EOLhyphen"/>sties forces.</p>
+            <p>The 26, His Majesty by <hi>Clarenceux</hi> King of Armes sent a Summon to <hi>Banbury</hi> which being not thereupon yeelded, His Majesty the next day drew out part of His Army with some Ordinance against the said Towne, upon the approach of which the Rebells forces (being the Earle of <hi>Peterboroughs</hi> Regiment which were in the Town to the number of 600) came out, laid down
+<pb n="6" facs="tcp:113303:5"/>their Armes and asked His Majesties pardon, and im<g ref="char:EOLhyphen"/>mediatly the Towne was rendred up: upon which His Majesty sent some of His principall Officers to discover and bring away all such Armes <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Ammu<g ref="char:EOLhyphen"/>nition as were found in the Towne, and to take up up<g ref="char:EOLhyphen"/>on Tickets all Wollen cloath, stockings, shooes, and victualls for the accommodation of His souldiers for<g ref="char:EOLhyphen"/>bidding all manner of plundring, and permitting only one Regiment to enter and re<g ref="char:EOLhyphen"/>main in the Town that night.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113303:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
